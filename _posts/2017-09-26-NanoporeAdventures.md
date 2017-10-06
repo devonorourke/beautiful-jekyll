@@ -7,11 +7,11 @@ author: devonorourke
 tags: 'classroom'
 ---
 
- # Overview
+# Overview
 So you've decided you want to use a Nanopore device? Maybe you geeked out when you first saw [this video](https://nanoporetech.com/how-it-works) describing how it works. Maybe your mind was blown when folks started [posting announcements](http://lab.loman.net/2017/03/09/ultrareads-for-nanopore/) about how they could get nearly an entire bacterial genome with aboug 4x coverage using the same number of reads than there are words in this sentence (hint: there are a just 43). Whatever your source of inspiration (or need), long read sequencing was critical for one of my projects so I dove in with both feet. Unfortunately I found the process a little less straightforward than Illumina largely because it's such a newer platform. This guide was put together to help myself keep track of the things I went through in starting from scratch, having never ordered the product, used the product, or analyzed the products products. In creating this in September 2017, I'm not sure how long any of this will remain helpful, but hopefully you can find something in here that is useful.  
 
 
- # Getting started
+# Getting started
 ## What to buy?
 While my experience in using Nanopore is to generate long sequence reads of DNA, Nanopore has myriad applications for DNA, RNA, and protein (and blobs) - see an [extended review/sales pitch here](https://www.youtube.com/watch?v=7pIpf-jj-7w). Keep this in mind with any of the info below, as my guide reflects the needs and nature of my project which invovled sequencing a single large mammalian genome from just one individual. Maybe you're doing something with a [huge ocean fish](https://blog.nature.org/science/2014/04/02/mola-mola-the-weirdest-fish-in-the-ocean/) or our [national mammal](https://www.doi.gov/blog/15-facts-about-our-national-mammal-american-bison), or some other tautonym. Whatever you're project, you probably want to begin by answering the following questions:
 1. What Nanopore device am I going to use (I bought a MinIon)?
@@ -41,7 +41,7 @@ C) **Development**. You get **2 MinIons** this way. And 16 flow cells. And 4 seq
 
 Take home message: there isn't a clear winner, but the cheapest option isn't necessarily the best, or worst. 
 
- ## How to buy it?
+## How to buy it?
 - we don't have a VAT tax. just click 'no' and 'no.
 
 ## Instant support
