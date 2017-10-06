@@ -16,7 +16,7 @@ Not having documented the step-by-step process of constructing this site led me 
 
 `LET'S MAKE WORKFLOWS FOR FOLKS WHO DON'T KNOW HOW TO DO SOMETHING SO THEY CAN DO IT FASTER`
 
-So how will this all work? ...
+So how will this all work?  
 
 The layout, as mentioned on the [Home page](https://devonorourke.github.io/) is really simple:
 1. There's a page where I'll introduce the topic we're dealing with in a blog format - like the very one you're reading right now - under the [Learning](https://devonorourke.github.io/learning/) page. In some instances the entirety of the post will be self contained (read: if it's really simple). In other cases I might write a short blog outlining the basic premise of the project but then link to a separate page where the gory details are provided in full - specifically, you'll find these longer posts under the [Teaching](https://devonorourke.github.io/teaching/) page. For example, if you're interested in how to build a website like this one from scratch, I've documented [that process here]**(??? link ???)**.  
