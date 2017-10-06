@@ -129,4 +129,6 @@ It turns out the `LS_COLORS="di=1...` line is the really important one in the se
 - `fi=0;34` indicates that all files will be colored blue .
 - `*.txt=0;35` as you might have guessed now just specifies a different color for anything that is a `.txt` file .
 
-Notably, whatever the default colors is in your Terminal.app *Profile* scheme is what will be shown. All we're doing is overrriding those defaults. What this amounts to is generating a heirarchy of colors - so we start with the base coloring (which is defined by your Terminal.app *Profile* scheme) and then modify certain features by specifying what kinds of files/directories get which features/colors applied. There's plenty of other ways to modify, but I find this the easiest and simplest. Good luck!
+Notably, whatever the default colors is in your Terminal.app *Profile* scheme is what will be shown. All we're doing is overrriding those defaults. What this amounts to is generating a heirarchy of colors - so we start with the base coloring (which is defined by your Terminal.app *Profile* scheme) and then modify certain features by specifying what kinds of files/directories get which features/colors applied. There's plenty of other ways to modify, but I find this the easiest and simplest.  
+
+Good luck!
