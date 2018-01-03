@@ -9,7 +9,7 @@ meta-description: "one persons education in traversing paths in science"
 
 # What are you doing here?
 
-I've grouped this site into three big items:  
+To get started, read my [first post](http://www.outermostlab.com/2017-09-26-beginning/) explaining what this site is all about. In short, this site contains elements of my graduate research, my teaching, and my thoughts, in a somewhat coherent manner. I've grouped this site into three big items:  
 
 - [**Learning**](https://devonorourke.github.io/learning) - a blog integrating what I've learned throughout as a high school teacher and Ph.D student  
 - [**Doing**](https://devonorourke.github.io/doing) - some background regarding my current research at the University of New Hampshire  
