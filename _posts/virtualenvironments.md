@@ -1,5 +1,33 @@
-# ampTK install scripts
-Reworking Jon Palmer's [installation instructions](https://github.com/nextgenusfs/amptk/blob/master/docs/ubuntu_install.md) so that they work for me. If you're unclear of which Python version you have, I'd suggest looking at installing either Conda or Miniconda as it will allow you to manage all of your installs as well as ensure you have an updated Python version which should cause less headaches. To do that, [click here](https://www.continuum.io/content/conda-data-science) and download either the full Conda installation or the smaller Miniconda (for our purposes, Miniconda will do just fine). As an example using Miniconda, [download your version](https://conda.io/miniconda.html) either using the browser and subsequent install, or stick to the command line following [these instructions](https://conda.io/docs/install/quick.html#linux-miniconda-install), condensed below:
+---
+layout: post
+title:  "Shiny guano"
+date:   2018-01-12
+categories: posts
+author: devonorourke
+tags: 'computery'
+---
+
+# Motivation
+There are many blogs about virtual environments - there are a bunch of links within this post directing you to those. The point of this note is to try to provide context about why you might want to do that.
+
+# Backstory
+Perhaps this sounds familiar:  
+1. You have recently acquired some data for `Project 1` (congrats!) and want to run a program which apparently does amazing things to said data (what luck!).  You start by reading through the program manual and quickly realize that this one amazing program is actually a mosaic of a suite of other programs. You are a master of all things computers, so you effortlessly download all the other programs (herein called _dependencies_), and run a little test data set and everything works great.  
+2. You go about your merry way, getting tremendous results from this amazing new program. But Life continues, and behind the scences, some programs get updated and upgraded. You realize that you need to use one of those _dependencies_ for your next experiment, `Project 2`; **however**, you also realize that the _dependent_ programs is a slightly different version. You upgrade to that newer version, and you are amazed at how cool this new project is. Life is great.  
+3. You go back to run another analysis on `Project 1`, but it says you need the older version of that _dependency_ program you updated for `Project 2`. So you're faced with the inenviable task of having to chooose which `Project` you want to stake your research life on.  
+
+_no you don't!_
+
+# Solution
+Virtual environments are just what they say they are: they are little digital bins to keep your programs and _versions_ of those programs separate. So how to we go about creating these? Well that get's a slightly bit more complicated: first, the term _virtual environment_ is often conflated with a package manager because some of the tools you see commonly associated with each do both. Just to be clear:
+- A **virtual environmemt** is like a shelf for you to hold all the books (programs) you want
+- A **package manager** is like the librarian who keeps track of which books get to be on which shelf  
+
+First we need a piece of software capable of creating a virtual environment - that's going to be a programming language called [Python](https://www.python.org/). Let's add one more layer of confusion: there are **two big branches of Python** and you (Mac users) very likely have at least one of two versions, if not both. You can quickly check what version of Python you have by opening up your Terminal and typing `python --version`: if you see something like `Python 2.7.x` where `x` could be any number,  you have **Python 2**, the old Python. If you see something like `Python 3.6.y` where `y` could be any number, you have **Python 3**, the new Python.  
+
+Let's take a step back though and raise one more thing: it turns out there is software that works _with Python_ which is capable of doing both the virtual environment stuff, and the package management stuff. Once you know what version of Python you have (2 or 3), I'd highly suggest looking at this comprehensive software called `Conda` and dowloading it because it will allow you to manage all of your installs as well as ensure you have an updated Python version which should cause less headaches. It turns out there is a big or small version of that software called `Conda` (big) or `Miniconda` (small) - it's a matter of choice and hard drive space. To do that, [click here](https://www.continuum.io/content/conda-data-science) and download either the full Conda installation or the smaller Miniconda (for our purposes, Miniconda will do just fine).  
+
+Because I think the Conda package management system is so helpful, I'm going to continue on with this blog about setting up a virtual environment by first assuming you've downloaded Conda. Here's an example using Miniconda, [download your version](https://conda.io/miniconda.html) either using the browser and subsequent install, or stick to the command line following [these instructions](https://conda.io/docs/install/quick.html#linux-miniconda-install), condensed below:
 ```
 ## Downloading to $HOME directory, but you could just as well put it in '/usr/local'...
 cd $HOME
