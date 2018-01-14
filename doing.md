@@ -10,7 +10,16 @@ My graduate research has focused on understanding aspects of the ecological and 
 Check out the information below for further information about each project. Feel free to contact me at [devon.orourke@gmail.com](mailto:devon.orourke@gmail.com) if you'd like to know more details about the research.
 
 ## Bat Diets
-One aspect of this research relies on bat poop (guano) to describe the seasonal and geographic variation in the diets of bats native to New England. Understanding changes in the diversity and composition of insect species consumed by bats can greatly improve pest management strategies, inform conservation efforts, and shape land use strategies of forested areas affected by invasive pests. We pair high throughput molecular tools with next-generation sequencing technologies to quantify which bats eat what insects, when they eat them, and associate these dynamics with changes in community composition.
+You can learn a lot from a pile of bat poop (guano). I'm interested in using guano samples to better understand the seasonal and geographic variation in the diets of bats native to New England. Understanding changes in the diversity and composition of insect species consumed by bats can greatly improve pest management strategies, inform conservation efforts, and shape land use strategies of forested areas affected by invasive pests. I spoke about the utility of this approach last year at a University of New Hampshire competition which challenged students to describe their research in three minutes or less:  
+<br>
+[![3MTvideo](https://github.com/devonorourke/devonorourke.github.io/blob/master/img/3mt_screenshot.png)](https://youtu.be/zzW4YjY_7l4 "3MTvideo").
+<br>
+
+
+
+_Partial funding was provided by the New Hampshire Agricultural Experiment Station. This work is/was supported by the USDA National Institute of Food and Agriculture, McIntire-Stennis Project 1006866._
+
+---
 
 Check out this Concord Monitor [news article](http://granitegeek.concordmonitor.com/2016/03/22/looking-for-invasive-bugs-check-your-local-pile-of-bat-guano/) describing the preliminary work.
 
