@@ -9,12 +9,13 @@ My graduate research has focused on understanding aspects of the ecological and 
 
 Check out the information below for further information about each project. Feel free to contact me at [devon.orourke@gmail.com](mailto:devon.orourke@gmail.com) if you'd like to know more details about the research.
 
-## Bat Diets
+## Bat Diets  
+
 You can learn a lot from a pile of bat poop (guano). I'm interested in using guano samples to better understand the seasonal and geographic variation in the diets of bats native to New England. Understanding changes in the diversity and composition of insect species consumed by bats can greatly improve pest management strategies, inform conservation efforts, and shape land use strategies of forested areas affected by invasive pests. I spoke about the utility of this approach last year at a University of New Hampshire competition which challenged students to describe their research in three minutes or less:  
-<br>
-[![3MTvideo](https://github.com/devonorourke/devonorourke.github.io/blob/master/img/3mt_screenshot.png)](https://youtu.be/zzW4YjY_7l4 "3MTvideo").
-<br>
-[![3MTvideo_altText](https://github.com/devonorourke/devonorourke.github.io/blob/master/img/3mt_screenshot.png)](https://youtu.be/zzW4YjY_7l4)
+
+[![3MTvideo](https://github.com/devonorourke/devonorourke.github.io/blob/master/img/3mt_screenshot.png)](https://youtu.be/zzW4YjY_7l4 "3MTvideo")  
+
+[![3MTvideo_altText](https://github.com/devonorourke/devonorourke.github.io/blob/master/img/3mt_screenshot.png)](https://youtu.be/zzW4YjY_7l4)  
 ---
 > This work wouldn't have been possible if not for the dozens of volunteers who collected the guano samples over the 2015 and 2016 summer seasons. A special thanks to all who contributed; apologies and please let me know if you aren't listed below! Inge Seaboyer, Celeste Barr, Pete Smith, Amy O'Brien, Anya Kattef, Charles and Jeanne Hawthorne, Leslee Glidden, Katherine and Andrew Heck, Barbara Kahn, Catherine Skove, Kay Cushman, Elizabeth Smith, William Schultz, Hillary Nelson, Dave Yates and Caroline Byrne, Katherine York, Dave Erler, Sarah Boyden, David Brooks, and Carol Drummond.  
 
