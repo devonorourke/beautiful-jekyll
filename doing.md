@@ -14,11 +14,11 @@ You can learn a lot from a pile of bat poop (guano). I'm interested in using gua
 <br>
 [![3MTvideo](https://github.com/devonorourke/devonorourke.github.io/blob/master/img/3mt_screenshot.png)](https://youtu.be/zzW4YjY_7l4 "3MTvideo").
 <br>
-
+[![3MTvideo_altText](https://github.com/devonorourke/devonorourke.github.io/blob/master/img/3mt_screenshot.png)](https://youtu.be/zzW4YjY_7l4)
 ---
 > This work wouldn't have been possible if not for the dozens of volunteers who collected the guano samples over the 2015 and 2016 summer seasons. A special thanks to all who contributed; apologies and please let me know if you aren't listed below! Inge Seaboyer, Celeste Barr, Pete Smith, Amy O'Brien, Anya Kattef, Charles and Jeanne Hawthorne, Leslee Glidden, Katherine and Andrew Heck, Barbara Kahn, Catherine Skove, Kay Cushman, Elizabeth Smith, William Schultz, Hillary Nelson, Dave Yates and Caroline Byrne, Katherine York, Dave Erler, Sarah Boyden, David Brooks, and Carol Drummond.  
 
-> In addition, partial funding was provided by the New Hampshire Agricultural Experiment Station. This work is/was supported by the USDA National Institute of Food and Agriculture, McIntire-Stennis Project 1006866._
+_Partial funding was provided by the New Hampshire Agricultural Experiment Station. This work is/was supported by the USDA National Institute of Food and Agriculture, McIntire-Stennis Project 1006866._
 
 ## Bat Genomics
 
