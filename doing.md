@@ -4,7 +4,7 @@ title: my doing
 subtitle: pipettes, keyboards, pipettes, keyboards, graduate.
 ---
 
-# A good overview of what's going on in the lab:
+# Current research:
 My graduate research has focused on understanding aspects of the ecological and evolutionary dynamics of endemic bat populations. I pair high throughput molecular tools with next-generation sequencing technologies to gather genetic information. In some cases the information is from the bats themselves (see **Bat Genomics** below), and in other cases the genetic information concerns what the bats are eating (see **Bat Diets**).
 
 Check out the information below for further information about each project. Feel free to contact me at [devon.orourke@gmail.com](mailto:devon.orourke@gmail.com) if you'd like to know more details about the research.
