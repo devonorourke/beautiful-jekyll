@@ -15,9 +15,7 @@ You can learn a lot from a pile of bat poop (guano). I'm interested in using gua
 
 [![3MTvideo_altText](https://github.com/devonorourke/devonorourke.github.io/raw/master/img/3mt_screenshot.png)](https://youtu.be/zzW4YjY_7l4)  
 
-We're still in the process of wrapping up the sequencing of thousdands of guano samples, and in an effort to keep everything up to date I'll keep posting updates [like this first one outlining the research in greater detail](http://www.outermostlab.com/2018-01-14-guano/). Notably, the majority of the data has yet to be analyzed, but the following graphic illustrates one way to think about such data. The graphic represents guano collected in New Hampshire during just the 2015 summer season. 
-
-
+We're still in the process of wrapping up the sequencing of thousdands of guano samples, and in an effort to keep everything up to date I'll keep posting updates [like this first one outlining the research in greater detail](http://www.outermostlab.com/2018-01-14-guano/). Notably, the majority of the data has yet to be analyzed, but the figure embedded in that post represents one of the very exciting features of this molecular work - hundreds of unique types of insects were detected in just the 2015 New Hampshire survey alone; and unlike traditional microscopic analyses where an expert spends months sifting through bug parts to resolve the classification of the bug to perhaps a _Family_ level, we are getting _genus_ and in some case _species_-level reslution.
 
 ---
 > This work wouldn't have been possible if not for the dozens of volunteers who collected the guano samples over the 2015 and 2016 summer seasons. A special thanks to all who contributed; apologies and please let me know if you aren't listed below! Inge Seaboyer, Celeste Barr, Pete Smith, Amy O'Brien, Anya Kattef, Charles and Jeanne Hawthorne, Leslee Glidden, Katherine and Andrew Heck, Barbara Kahn, Catherine Skove, Kay Cushman, Elizabeth Smith, William Schultz, Hillary Nelson, Dave Yates and Caroline Byrne, Katherine York, Dave Erler, Sarah Boyden, David Brooks, and Carol Drummond.  
@@ -26,6 +24,6 @@ _Partial funding was provided by the New Hampshire Agricultural Experiment Stati
 
 ## Bat Genomics
 
-Check out this Concord Monitor [news article](http://granitegeek.concordmonitor.com/2016/03/22/looking-for-invasive-bugs-check-your-local-pile-of-bat-guano/) describing the preliminary work.
+To be posted soon!
 
 ---
