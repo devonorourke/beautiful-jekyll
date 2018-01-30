@@ -24,6 +24,8 @@ _Partial funding was provided by the New Hampshire Agricultural Experiment Stati
 
 ## Bat Genomics
 
-To be posted soon!
+More details posted soon!
+
+Just gave a pair of talks to MA and NH state wildlife agencies regarding this work - see [this presentation](https://gitpitch.com/devonorourke/batgenomes/master) for a preview of the projects related to bat genomics.
 
 ---
